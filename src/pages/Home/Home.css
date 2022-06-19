@@ -1,0 +1,20 @@
+.jumbotron{
+    display: flex;
+    flex-wrap: wrap;
+    min-height:54em !important;
+    justify-content: center;
+    background-repeat: no-repeat;
+}
+
+.title{
+    display: flex;
+    flex-wrap: wrap;
+    word-wrap: break-word;
+    padding:3em;
+    /* background-color: red; */
+}
+
+.title > *{
+    font-family: 'Roboto Slab', serif;;
+    font-weight: bold !important;
+}

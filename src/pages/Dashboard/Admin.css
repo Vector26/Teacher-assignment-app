@@ -1,0 +1,13 @@
+
+.add-teacher-form > *,.add-teacher-form > div{
+    margin-right:1em;
+    margin-bottom:1em;
+}
+
+.content{
+    min-width:50vw;
+}
+
+.content-parent{
+    height: calc(100vh - 75px);
+}
